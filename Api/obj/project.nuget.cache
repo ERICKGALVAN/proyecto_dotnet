@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SXqP5GbWpOhK4AkryOylDkGxd4Jc5lb5YWgXRejODE3f6BB2vhx8RsiSU8IGftKcxnSo/3oRfhOTw+lvLWarhg==",
+  "dgSpecHash": "3ZLlQmHrMk1VID0R/TB9Y6O3bZvLyleaGNVkAwKgT1WPoyp2J9MtL8d7AGSrGLGwbLCWUsxgLroT9xvnnmM7bQ==",
   "success": true,
   "projectFilePath": "/Users/erickgalvan/Documents/servicios_web/Api/Api.csproj",
   "expectedPackageFiles": [
     "/Users/erickgalvan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/erickgalvan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.22/microsoft.aspnetcore.authentication.jwtbearer.6.0.22.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/microsoft.data.sqlite.core/7.0.10/microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.10/microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
@@ -26,6 +27,8 @@
     "/Users/erickgalvan/.nuget/packages/microsoft.identitymodel.abstractions/7.0.0/microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.0/microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/microsoft.identitymodel.logging/7.0.0/microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "/Users/erickgalvan/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/erickgalvan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/microsoft.identitymodel.tokens/7.0.0/microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/Users/erickgalvan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
