@@ -76,3 +76,4 @@
 /Users/erickgalvan/Documents/servicios_web/Api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/erickgalvan/Documents/servicios_web/Api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
 /Users/erickgalvan/Documents/servicios_web/Api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/erickgalvan/Documents/servicios_web/Api/bin/Debug/net6.0/Data/UserSeddData.json

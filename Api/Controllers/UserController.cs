@@ -16,7 +16,6 @@ public class UserController : BaseApiController
     }
 
 
-    [AllowAnonymous]
     [HttpGet]
     public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
     {
@@ -25,7 +24,6 @@ public class UserController : BaseApiController
 
 
 
-    [Authorize]
     [HttpGet("{id}")]
     public async Task<ActionResult<AppUser>> GetUser(int id)
     {
