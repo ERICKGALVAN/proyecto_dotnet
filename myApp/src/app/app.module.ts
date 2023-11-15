@@ -30,7 +30,6 @@ import { TabsModule } from 'ngx-bootstrap/tabs';
     HomeComponent,
     RegisterComponent,
     MemberListComponent,
-    MemberDetailComponent,
     ListsComponent,
     MessagesComponent,
     TestErrorComponent,
